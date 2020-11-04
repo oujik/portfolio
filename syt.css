@@ -1,0 +1,14 @@
+h1{
+  color: black;
+  font-size: 100px;
+}
+
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+  background: #ffffff url("img/ctol.png") no-repeat top center;
+
+}
